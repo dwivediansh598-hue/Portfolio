@@ -1,7 +1,4 @@
 
-  # Portfolio creation
-
-  This is a code bundle for Portfolio creation. The original project is available at https://www.figma.com/design/RPw21geGZS9v1BQUkRqyl1/Portfolio-creation.
 
   ## Running the code
 
